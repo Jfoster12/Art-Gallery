@@ -1,0 +1,48 @@
+/* Set a warm and earthy background color */
+body {
+    background-color: #F5E6CA; /* A light beige or cream color */
+}
+
+/* Header styles with fall-inspired colors */
+header {
+    background-color: #E68F6D; /* A warm orange color */
+    color: #FFFFFF; /* White text on the header background */
+}
+
+/* Navigation link styles */
+nav ul li a {
+    color: #6b4226; /* A deep brown color */
+    transition: color 0.3s; /* Smooth color transition on hover */
+}
+
+nav ul li a:hover {
+    color: #e68f6d; /* Change to the header's background color on hover */
+}
+
+/* Main content area */
+main {
+    background-color: #FFFAF0; /* A light ivory color */
+    padding: 20px;
+}
+
+/* Gallery section styles */
+.gallery {
+    /* Define styles for your gallery section here */
+}
+
+/* Footer styles with fall-inspired colors */
+footer {
+    background-color: #6B4226; /* A deep brown color */
+    color: #FFFFFF; /* White text on the footer background */
+}
+
+/* Copyright text in the footer */
+.footer .copyright {
+    font-weight: bold;
+}
+
+/* Last update and contact email in the footer */
+.footer .last-update,
+.footer .contact-email {
+    font-size: 12px;
+}
